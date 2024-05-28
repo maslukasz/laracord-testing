@@ -1,0 +1,6 @@
+/vendor
+/builds
+/cache
+*.sqlite
+.env
+*.env
